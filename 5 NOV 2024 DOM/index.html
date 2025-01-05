@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+     <h1 id="heading" class=" smallText" > HELLO WORLD </h1>
+     <button  onclick="parahandler('small')" >small text </button>
+     <button onclick="parahandler('big')" >big text</button>
+
+     <button onclick="fontSizeCounter('minus')">-</button>
+     <button disabled id="textNumber">16</button>
+     <button onclick="fontSizeCounter('plus')">+</button> 
+
+      <!-- onchange="colorChange()"   -->
+     <input type="color" id="color" oninput="colorChange(this)" /> 
+     <p id="para" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, hic.</p>
+    
+</body>
+<script src="app.js"></script>
+</html>
