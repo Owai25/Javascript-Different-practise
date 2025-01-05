@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0
+    ;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+     margin-top: 250px;
+     /* border: 1px solid red; */
+}
+
+.parent{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    gap: 60px;
+    margin: 5px;
+    /* border: 1px solid red; */
+}
+button{
+    padding: 5px 20px  ;
+    margin-left: 60px;
+    
+}
+.OWAIS{
+   margin-left: 60px;
+   padding-left: 120px;
+}
+
