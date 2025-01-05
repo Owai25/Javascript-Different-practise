@@ -1,0 +1,45 @@
+.container{
+    margin: 50px auto ;
+    border: 2px solid #998b8b;
+    width: 60%;
+    padding: 10px;
+}
+.container .header{
+    background-color: lightcyan;
+    
+   
+}
+.body{
+    margin: 0px 30px;
+}
+
+.body li {
+    background-color: lightgrey;
+    padding: 8px;
+    list-style: none;
+    margin: 10px 0;
+    cursor: pointer;
+
+}
+h1{
+   display: flex;
+   justify-content: center;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+button{
+    padding: 5px 20px;
+    color: #998b8b;
+    
+
+}
+.h2{
+    width: 80%;
+    margin: 20px auto;
+    color: white  ;
+    background-color: rgb(0, 0, 255);
+}  
