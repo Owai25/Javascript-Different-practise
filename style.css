@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+  padding: 10px;
+  height: 600px;
+  margin: 10px 20px;
+}
+.mytable tr{
+  padding: 50px;
+  margin: 50px;
+}
+
+.mytable{
+
+  height: 300px;
+  margin: 10px 40px;
+  width: 1200px;
+  border: 1px solid black;
+  border-collapse: collapse ;
+  text-align: center;
+  
+  
+}
+.mytable td{
+  
+  padding: 20px;
+  text-align: center;
+}
+
+.mytable th{
+  padding: 10px;
+  background-color: grey;
+
+}
+.mytable tr{
+  color: red ;
+  background-color: lightgreen; 
+}
+
+.mytable td:hover  {
+  background-color: green;
+  
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+/* .formContainer fieldset {
+    width: 60px;
+    margin: 0px auto ;
+    border-radius: 8px;
+    padding: 20px 0px;
+    border: none;
+    backdrop-filter:
+    ;
+    background-color: transparent;
+}
+.loginForm{
+    margin: 20px;
+}
+.loginForm label{
+    display: block;
+}
+.loginForm input{
+    width: 100%;
+}
+
+.inputContainer {
+    margin: 10px 0px;
+    
+  }
+  .inputContainer input{
+    padding: 10px;
+  }
+
+  .inputContainer button{
+    width:100% ;
+    padding: 10px 0px
+    ;
+    color: white;
+    background-color: purple;
+    border: none;
+    cursor: pointer;
+   
+  }
+  .formContainer{
+    margin: 10px 20px;
+    
+  }
+  .inputContainer button:hover{
+    background-color: white;
+    border: 1px solid purple;
+    color: purple;
+  }
+  .inputContainer input{
+    outline: none;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid purple;   
+  }
+.formContainer legend{
+    text-align: center ;
+    }
+    .formContainer{
+
+    height: 100vh;
+    background-image: url("./Images/pexels-mikebirdy-120049.jpg");
+    padding: 20px 0px;
+    margin-top: 20px;
+  } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
